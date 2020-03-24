@@ -1,5 +1,5 @@
 {
-    "name": "mdupaul/flash",
+    "name": "be-park/flash",
     "description": "Easy flash notifications with multiple messages",
     "license": "MIT",
     "authors": [
@@ -9,8 +9,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "~5.0"
+        "php": ">=7.2",
+        "laravel/framework": "^7.0",
     },
     "require-dev": {
         "mockery/mockery": "dev-master"
